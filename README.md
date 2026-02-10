@@ -17,7 +17,8 @@
 <h2>👨‍💻 Simulation Project:</h2>
 
 - <b> Elevator Controller </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<br>[ElevatorControl.pdf](https://github.com/user-attachments/files/25212328/ElevatorControl.pdf)
+
 
 
 <h2> 🤳 Connect with me on Linkedin:</h2>
