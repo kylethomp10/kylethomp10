@@ -4,7 +4,7 @@
 
 
 - <b> Cold Air Intake </b>
-<br>
+<br> For this project, I was completely disassembled an air intake manufactured by K&N. Through extremely meticously measurement I was able to recreate all the individual pieces in SolidWorks.  
 <br> <img width="696" height="533" alt="air intake" src="https://github.com/user-attachments/assets/125f7fea-b145-4bb4-aaaf-bc11af1a97f3" />
 
 
