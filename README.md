@@ -5,7 +5,10 @@
 
 - <b> Cold Air Intake </b>
 <br> For this project, I was completely disassembled an air intake manufactured by K&N. Through extremely meticously measurement I was able to recreate all the individual pieces in SolidWorks. I drew a total of 14 pieces that all ranged in size. The small rubber rings were millimeters in thickness while the large heat shield, shown in black in the picture below was almost a foot long across each side. This project challenged me in finding creative ways to get accurate measurements. I had to measure each side's angle of deflection from the other and calculate their specific geometry to ensure all parts fit together within my required tolerances.
-<br> <img width="696" height="533" alt="air intake" src="https://github.com/user-attachments/assets/125f7fea-b145-4bb4-aaaf-bc11af1a97f3" />
+
+<p align="center">
+     <img width="696" height="533" alt="air intake" src="https://github.com/user-attachments/assets/125f7fea-b145-4bb4-aaaf-bc11af1a97f3" />
+</p>
 
 
 - <b> Dove Tail Gearbox </b>
