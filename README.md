@@ -19,10 +19,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kyle Thompson | LinkedIn" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/kyle-thompson-411200216/
 
-[linkedin]: www.linkedin.com/in/kyle-thompson-411200216
 
 </h3>
 <! -- **kylethomp10/kylethomp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
