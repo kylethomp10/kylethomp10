@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kyle. <br/> Welcome to my portfolio!
 
-<h2>👨‍💻 CAD Projects:</h2>
+<h2>✏️ CAD Projects:</h2>
 
 
 - <b> Cold Air Intake </b>
@@ -13,20 +13,19 @@
 
 - <b> Dove Tail Gearbox </b>
 <br> This design utilizes a DC motor to drive the gearbox forward or back. The total gear ratio is 405:1, with 5 gears being used to acheive this.
-<br> <img width="696" height="533" alt="gearbox" src="https://github.com/user-attachments/assets/262efaeb-7bb5-4829-87c3-4c4ca27046d2" />
+
 <p align="center">
-      <img width="233" height="182" alt="gearbox" src="https://github.com/user-attachments/assets/8c0231a0-da75-473e-852c-02a132311ad9" />
+      <img width="600" height="500" alt="gearbox" src="https://github.com/user-attachments/assets/8c0231a0-da75-473e-852c-02a132311ad9" />
 </p>
 
- 
-- <b>Fluid Powered Vehicle</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>👨‍💻 Simulation Project:</h2>
 
 - <b> Elevator Controller </b>
-<br>[ElevatorControl.pdf](https://github.com/user-attachments/files/25212328/ElevatorControl.pdf)
 
+<p align="center">
+      <img width="505" height="255" alt="simulnikthung" src="https://github.com/user-attachments/assets/6f58926a-e289-4060-af53-a3ee0b42d32b" />
+</p>
 
 
 <h2> 🤳 Connect with me on Linkedin:</h2>
