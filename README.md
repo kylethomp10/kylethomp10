@@ -14,8 +14,9 @@
 - <b> Dove Tail Gearbox </b>
 <br> This design utilizes a DC motor to drive the gearbox forward or back. The total gear ratio is 405:1, with 5 gears being used to acheive this.
 <br> <img width="696" height="533" alt="gearbox" src="https://github.com/user-attachments/assets/262efaeb-7bb5-4829-87c3-4c4ca27046d2" />
-
-  ![IMG_7400](https://github.com/user-attachments/assets/871c6652-e17e-47e3-90cd-babd343e2b09)
+<p align="center">
+      <img width="233" height="182" alt="gearbox" src="https://github.com/user-attachments/assets/8c0231a0-da75-473e-852c-02a132311ad9" />
+</p>
 
  
 - <b>Fluid Powered Vehicle</b>
