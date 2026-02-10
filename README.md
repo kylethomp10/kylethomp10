@@ -12,13 +12,36 @@
 
 
 - <b> Dove Tail Gearbox </b>
-<br> This design utilizes a DC motor to drive the gearbox forward or back. The total gear ratio is 405:1, with 5 gears being used to acheive this.
+<br> This design's purpose is to bend an aluminum bar to a 90 degree angle. It utilizes a DC motor to drive the gearbox forward or back. The total gear ratio is 405:1, with 5 gears being used to acheive this.
 
 <p align="center">
       <img width="600" height="500" alt="gearbox" src="https://github.com/user-attachments/assets/8c0231a0-da75-473e-852c-02a132311ad9" />
 </p>
 
- 
+The output shaft of the gearbox, for the bending device rotates a pinion gear that directly engages a linear rack, shown in green. As the pinion turns, the rack moves forward in a straight line. Attached to the end of the rack is a precision-shaped press tool named the dove tail. The dove tail has a semicircular end which is meant to guide the bar gently as it is bent.
+
+<p align="center">
+      <img width="656" height="389" alt="dove tail" src="https://github.com/user-attachments/assets/b8ae757b-7e44-4a07-9990-00f48256b9e3" />
+</p>
+
+The aluminum strip is placed between the dove tail and the end of the gearbox, which is called the die. As the rack pushes the press tool into the strip, the tool forces the aluminum downward into the die opening, generating the bending moment required to form a bend the bar. The gear train provides the required torque multiplication, while the rack-and-pinion interface ensures smooth, linear motion with good alignment between gears and the end of the box.
+
+
+<p align="center">
+[IMG_7400 (1)](https://github.com/user-attachments/assets/5ecbb61f-73ef-4657-bdb3-9bd3a239d28b)
+
+</p>
+
+
+<h2>📟 Mechatroncis Projects: </h2>
+- <b> Kayak Tensioning System 
+     
+<br> For this project
+
+
+ ![IMG_6776](https://github.com/user-attachments/assets/3dec319d-e16f-455a-954d-f992ec832b4c)
+
+
 <h2>👨‍💻 Simulation Project:</h2>
 
 - <b> Elevator Controller </b>
