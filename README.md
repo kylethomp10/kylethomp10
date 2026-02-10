@@ -25,7 +25,7 @@
 [linkedin]: www.linkedin.com/in/kyle-thompson-411200216
 
 
-**kylethomp10/kylethomp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! -- **kylethomp10/kylethomp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
