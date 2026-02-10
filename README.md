@@ -3,7 +3,8 @@
 <h2>👨‍💻 CAD Projects:</h2>
 
 - <b> Dove Tail Gearbox </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  ![IMG_7400](https://github.com/user-attachments/assets/871c6652-e17e-47e3-90cd-babd343e2b09)
+
  
 - <b> Cold Air Intake </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
