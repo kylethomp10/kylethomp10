@@ -4,10 +4,12 @@
 
 
 - <b> Cold Air Intake </b>
+<br>
 <br> <img width="696" height="533" alt="air intake" src="https://github.com/user-attachments/assets/125f7fea-b145-4bb4-aaaf-bc11af1a97f3" />
 
 
 - <b> Dove Tail Gearbox </b>
+<br> This design utilizes a DC motor to drive the gearbox forward or back. The 
   ![IMG_7400](https://github.com/user-attachments/assets/871c6652-e17e-47e3-90cd-babd343e2b09)
 
  
