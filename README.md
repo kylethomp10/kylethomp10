@@ -18,7 +18,7 @@
       <img width="600" height="500" alt="gearbox" src="https://github.com/user-attachments/assets/8c0231a0-da75-473e-852c-02a132311ad9" />
 </p>
 
-The output shaft of the gearbox, for the bending device rotates a pinion gear that directly engages a linear rack, shown in green. As the pinion turns, the rack moves forward in a straight line. Attached to the end of the rack is a precision-shaped press tool named the dove tail. The dove tail has a semicircular end which is meant to guide the bar gently as it is bent.
+The output shaft of the gearbox, for the bending device rotates a pinion gear that directly engages a linear rack, shown in green. As the pinion turns, the rack moves forward in a straight line. Attached to the end of the rack is a precision-shaped press tool named the dove tail. The dove tail has a semicircular end which is meant to guide the bar gently as it is bent. The dovetail is the blue piece shown in the last picture.
 
 <p align="center">
       <img width="656" height="389" alt="dove tail" src="https://github.com/user-attachments/assets/b8ae757b-7e44-4a07-9990-00f48256b9e3" />
