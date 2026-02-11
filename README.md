@@ -27,9 +27,7 @@ The output shaft of the gearbox, for the bending device rotates a pinion gear th
 The aluminum strip is placed between the dove tail and the end of the gearbox, which is called the die. As the rack pushes the press tool into the strip, the tool forces the aluminum downward into the die opening, generating the bending moment required to form a bend the bar. The gear train provides the required torque multiplication, while the rack-and-pinion interface ensures smooth, linear motion with good alignment between gears and the end of the box.
 
 
-<p align="center">
-[IMG_7400 (1)](https://github.com/user-attachments/assets/5ecbb61f-73ef-4657-bdb3-9bd3a239d28b)
-
+![IMG_7400](https://github.com/user-attachments/assets/bd001525-15a3-4f24-b25a-9f37d7f22c55)
 </p>
 
 
