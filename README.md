@@ -34,7 +34,7 @@ The aluminum strip is placed between the dove tail and the end of the gearbox, w
 <h2>📟 Mechatroncis Projects: </h2>
 - <b> Kayak Tensioning System 
      
-<br> For this project
+<br> For this project, my team and I worked together to create a device that could strap down a Kayak to the roof rack of a vehicle. This required lots of iterative design as well as custom made circuit boards to connect our off the shelf parts together with our Arduino setup.
 
 
  ![IMG_6776](https://github.com/user-attachments/assets/3dec319d-e16f-455a-954d-f992ec832b4c)
